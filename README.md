@@ -14,3 +14,4 @@
  -Con un nuevo for itero sobre los numeros impares y sobre los nuevos numeros pares( resultado de la suma entre digitos)
  -Si el resto de 10 igual a cero , enviar una alerta con "Tarjeta  Valida"
  - Si no, (%) enviar alerta "Tarjeta Invalida".
+ ![IMAGE](https://github.com/yolangelica/tarjeta_valida/blob/master/New%20Chart.png "diagrama de flujo")
